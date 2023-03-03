@@ -122,111 +122,111 @@
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="Apps_AllApps.Text" xml:space="preserve">
-    <value>All apps</value>
+    <value>Mọi ứng dụng</value>
   </data>
   <data name="Apps_AppsSearchBox.PlaceholderText" xml:space="preserve">
-    <value>Type here to search</value>
+    <value>Tìm kiếm ở đây/value>
   </data>
   <data name="Apps_MoveToFront.Text" xml:space="preserve">
-    <value>Move to front</value>
+    <value>Đưa lên đầu</value>
   </data>
   <data name="Apps_NoResultsFound" xml:space="preserve">
-    <value>No results found for '{0}'</value>
+    <value>Không có kết quả cho '{0}'</value>
   </data>
   <data name="Apps_Title.Text" xml:space="preserve">
-    <value>Apps</value>
+    <value>Ứng dụng</value>
   </data>
   <data name="Apps_Unpin.Text" xml:space="preserve">
-    <value>Unpin</value>
+    <value>Bỏ ghim</value>
   </data>
   <data name="ContextMenu_PenSettings.Text" xml:space="preserve">
-    <value>Pen settings</value>
+    <value>Cài đặt bút</value>
   </data>
   <data name="ContextMenu_Quit.Text" xml:space="preserve">
-    <value>Quit</value>
+    <value>Thoát</value>
   </data>
   <data name="ContextMenu_Settings.Text" xml:space="preserve">
-    <value>Settings</value>
+    <value>Cài đặt</value>
   </data>
   <data name="ContextMenu_StopRecording.Text" xml:space="preserve">
-    <value>Stop recording</value>
+    <value>Dừng quay</value>
   </data>
   <data name="CultureInfo" xml:space="preserve">
     <value>en-US</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Close" xml:space="preserve">
-    <value>Close</value>
+    <value>Đóng</value>
   </data>
   <data name="FirstRunExperience_Next.Content" xml:space="preserve">
-    <value>Next</value>
+    <value>Tiếp</value>
   </data>
   <data name="FirstRunExperience_Scene1_Description1.Text" xml:space="preserve">
-    <value>Welcome</value>
+    <value>Chào mừng</value>
   </data>
   <data name="FirstRunExperience_Scene1_Description2.Text" xml:space="preserve">
-    <value>Let's learn how to use this app like a pro</value>
+    <value>Chúng ta hãy học cách dùng sành sỏi ứng dụng</value>
   </data>
   <data name="FirstRunExperience_Scene1_Title.Text" xml:space="preserve">
     <value>Ink Workspace</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="FirstRunExperience_Scene2_Description1.Text" xml:space="preserve">
-    <value>You can open Ink Workspace using tray icon. It should be put next to the clock.</value>
+    <value>Bạn có thể mở Ink Workspace bằng khay biểu tượng. Nó sẽ nằm cạnh đồng hồ.</value>
   </data>
   <data name="FirstRunExperience_Scene2_Description2.Text" xml:space="preserve">
-    <value>The icon may be hidden. If you don't see it, try to click or tap on the arrow button.</value>
+    <value>Biểu tượng có thể bị ẩn. Nếu bạn không thấy nó, thử bấm hoặc chạm vào nút mũi tên.</value>
   </data>
   <data name="FirstRunExperience_Scene2_Title.Text" xml:space="preserve">
-    <value>Use tray icon</value>
+    <value>Sử dụng khay biểu tượng</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description1.Text" xml:space="preserve">
-    <value>You can open Ink Workspace directly from taskbar. Just pin it.</value>
+    <value>Bạn có thể mở Ink Workspace thẳng từ thanh tác vụ. Chỉ cần ghim nó.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Description2.Text" xml:space="preserve">
-    <value>Righ-click or tap and press the icon to open jump list. It contains list of essential commands.</value>
+    <value>Bấm chuột phải hoặc chạm và giữ biểu tượng để mở danh sách. Nó bao gồm danh sách các lệnh cần thiết.</value>
   </data>
   <data name="FirstRunExperience_Scene3_Title.Text" xml:space="preserve">
-    <value>Pin app to taskbar</value>
+    <value>Ghim ứng dụng vào thanh tác vụ</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description1.Text" xml:space="preserve">
-    <value>Ink Workspace allows you to adjust personalization settings, enable or disable keyboard shortcuts, manage apps and more.</value>
+    <value>Ink Workspace cho phép bạn tùy chỉnh các thiết đặt cá nhân, bật hoặc tắt phím tắt, quản lý ứng dụng và hơn thế nữa.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Description2.Text" xml:space="preserve">
-    <value>You can find settings icon in workspace, context menu of tray icon and jump list.</value>
+    <value>Bạn có thể tìm biểu tượng cài đặt trong không gian làm việc, menu chuột phải của khay biểu tượng và trong danh sách.</value>
   </data>
   <data name="FirstRunExperience_Scene4_Title.Text" xml:space="preserve">
-    <value>Adjust settings</value>
+    <value>Tùy chỉnh cài đặt</value>
   </data>
   <data name="FirstRunExperience_Scene5_Description.Text" xml:space="preserve">
-    <value>Close this window to finish configuration of Ink Workspace</value>
+    <value>Đóng cửa sổ này để hoàn thành thiết lập Ink Workspace</value>
   </data>
   <data name="FirstRunExperience_Scene5_Title.Text" xml:space="preserve">
-    <value>Almost ready...</value>
+    <value>Gần xong...</value>
   </data>
   <data name="FirstRunExperience_Skip.Content" xml:space="preserve">
-    <value>Skip</value>
+    <value>Bỏ qua</value>
   </data>
   <data name="JumpList_PenSettings" xml:space="preserve">
-    <value>Pen settings</value>
+    <value>Cài đặt bút</value>
   </data>
   <data name="JumpList_QuitApp" xml:space="preserve">
-    <value>Quit</value>
+    <value>Thoát</value>
   </data>
   <data name="JumpList_Settings" xml:space="preserve">
-    <value>Settings</value>
+    <value>Cài đặt</value>
   </data>
   <data name="JumpList_StopRecording" xml:space="preserve">
-    <value>Stop recording</value>
+    <value>Dừng quay</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Save</value>
+    <value>Lưu</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.SecondaryButtonText" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Hủy</value>
   </data>
   <data name="KeyboardShortcutEditor_ContentDialog.Title" xml:space="preserve">
-    <value>Edit shortcut</value>
+    <value>Tùy chỉnh phím tắt</value>
   </data>
   <data name="KeyboardShortcutEditor_Description.Text" xml:space="preserve">
     <value>Press a combination of keys to change this shortcut</value>
