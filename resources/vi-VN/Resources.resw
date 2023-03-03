@@ -229,13 +229,13 @@
     <value>Tùy chỉnh phím tắt</value>
   </data>
   <data name="KeyboardShortcutEditor_Description.Text" xml:space="preserve">
-    <value>Press a combination of keys to change this shortcut</value>
+    <value>Nhấn tổ hợp phím để thay đổi phím tắt</value>
   </data>
   <data name="KeyboardShortcutEditor_Info1.Text" xml:space="preserve">
-    <value>Only shortcuts that start with</value>
+    <value>Chỉ những phím tắt bắt đầu bằng</value>
   </data>
   <data name="KeyboardShortcutEditor_Info2.Text" xml:space="preserve">
-    <value>Windows key</value>
+    <value>Phím Windows</value>
   </data>
   <data name="KeyboardShortcutEditor_Info3.Text" xml:space="preserve">
     <value>Ctrl</value>
@@ -244,68 +244,68 @@
     <value>Alt</value>
   </data>
   <data name="KeyboardShortcutEditor_Info5.Text" xml:space="preserve">
-    <value>or</value>
+    <value>hoặc</value>
   </data>
   <data name="KeyboardShortcutEditor_Info6.Text" xml:space="preserve">
     <value>Shift</value>
   </data>
   <data name="KeyboardShortcutEditor_Info7.Text" xml:space="preserve">
-    <value>are valid.</value>
+    <value>được chấp nhận.</value>
   </data>
   <data name="Market" xml:space="preserve">
     <value>US</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="NavigationBar_Apps.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Apps</value>
+    <value>Ứng dụng</value>
   </data>
   <data name="NavigationBar_Home.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Home</value>
+    <value>Trang chủ</value>
   </data>
   <data name="NavigationBar_QuickActions.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Quick actions</value>
+    <value>Hành động nhanh</value>
   </data>
   <data name="NavigationBar_RecentFiles.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Recent files</value>
+    <value>Tệp gần đây</value>
   </data>
   <data name="NavigationBar_Settings.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Settings</value>
+    <value>Cài đặt</value>
   </data>
   <data name="QuickActions_Action_Cast" xml:space="preserve">
-    <value>Cast</value>
+    <value>Chiếu</value>
   </data>
   <data name="QuickActions_Action_Clipboard" xml:space="preserve">
-    <value>Clipboard</value>
+    <value>Bảng nhớ tạm</value>
   </data>
   <data name="QuickActions_Action_Connect" xml:space="preserve">
-    <value>Connect</value>
+    <value>Kết nối</value>
   </data>
   <data name="QuickActions_Action_EmojiPanel" xml:space="preserve">
-    <value>Emoji panel</value>
+    <value>Bảng Emoji</value>
   </data>
   <data name="QuickActions_Action_GameBar" xml:space="preserve">
-    <value>Game bar</value>
+    <value>Thanh trò chơi</value>
   </data>
   <data name="QuickActions_Action_LockDevice" xml:space="preserve">
-    <value>Lock device</value>
+    <value>Khóa thiết bị</value>
   </data>
   <data name="QuickActions_Action_Magnifier" xml:space="preserve">
-    <value>Magnifier</value>
+    <value>Kính lúp</value>
   </data>
   <data name="QuickActions_Action_Narrator" xml:space="preserve">
-    <value>Narrator</value>
+    <value>Trình tường thuật</value>
   </data>
   <data name="QuickActions_Action_Project" xml:space="preserve">
-    <value>Project</value>
+    <value>Trình chiếu</value>
   </data>
   <data name="QuickActions_Action_Recording" xml:space="preserve">
-    <value>Record a screen or window</value>
+    <value>Quay màn hình hoặc cửa số</value>
   </data>
   <data name="QuickActions_Action_RecycleBin" xml:space="preserve">
-    <value>Recycle Bin</value>
+    <value>Thùng Rác</value>
   </data>
   <data name="QuickActions_Action_Run" xml:space="preserve">
-    <value>Run</value>
+    <value>Chạy</value>
   </data>
   <data name="QuickActions_Action_ScreenSketch" xml:space="preserve">
     <value>Screen Sketch</value>
