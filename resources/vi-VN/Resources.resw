@@ -308,122 +308,122 @@
     <value>Chạy</value>
   </data>
   <data name="QuickActions_Action_ScreenSketch" xml:space="preserve">
-    <value>Screen Sketch</value>
+    <value>Chụp màn hình</value>
   </data>
   <data name="QuickActions_Action_ShowDesktop" xml:space="preserve">
-    <value>Show desktop</value>
+    <value>Hiện màn hình nền</value>
   </data>
   <data name="QuickActions_Action_ShutDown" xml:space="preserve">
-    <value>Shut down</value>
+    <value>Tắt máy</value>
   </data>
   <data name="QuickActions_Action_ShutDown_Hibernate" xml:space="preserve">
-    <value>Hibernate</value>
+    <value>Ngủ đông</value>
   </data>
   <data name="QuickActions_Action_ShutDown_Restart" xml:space="preserve">
-    <value>Restart</value>
+    <value>Khởi động lại</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot" xml:space="preserve">
-    <value>Take a screenshot</value>
+    <value>Chụp ảnh màn hình</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay10s" xml:space="preserve">
-    <value>Delay for 10 secs</value>
+    <value>Hoãn 10 giây</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay15s" xml:space="preserve">
-    <value>Delay for 15 secs</value>
+    <value>Hoãn 15 giây</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay3s" xml:space="preserve">
-    <value>Delay for 3 secs</value>
+    <value>Hoãn 3 giây</value>
   </data>
   <data name="QuickActions_Action_TakeAScreenshot_Delay5s" xml:space="preserve">
-    <value>Delay for 5 secs</value>
+    <value>Hoãn 5 giây</value>
   </data>
   <data name="QuickActions_Action_VirtualTouchpad" xml:space="preserve">
-    <value>Virtual touchpad</value>
+    <value>Touchpad ảo</value>
   </data>
   <data name="QuickActions_Action_VoiceTyping" xml:space="preserve">
-    <value>Voice typing</value>
+    <value>Nhập bằng giọng nói</value>
   </data>
   <data name="QuickActions_More.Text" xml:space="preserve">
-    <value>More</value>
+    <value>Thêm</value>
   </data>
   <data name="QuickActions_Title.Text" xml:space="preserve">
-    <value>Quick actions</value>
+    <value>Hành động nhanh</value>
   </data>
   <data name="QuickActions_Unpin.Text" xml:space="preserve">
-    <value>Unpin</value>
+    <value>Hủy ghim</value>
   </data>
   <data name="RateAndReview_Dismiss.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Dismiss</value>
+    <value>Bỏ</value>
   </data>
   <data name="RateAndReview_Title.Text" xml:space="preserve">
-    <value>Rate this app</value>
+    <value>Đánh giá ứng dụng</value>
   </data>
   <data name="RateAndReview_WriteReview.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Write a review</value>
+    <value>Viết rì viu</value>
   </data>
   <data name="RecentFiles_More.Text" xml:space="preserve">
-    <value>More</value>
+    <value>Thêm</value>
   </data>
   <data name="RecentFiles_NoRecentFiles.Text" xml:space="preserve">
-    <value>The more you use your device, the more recent files will show you</value>
+    <value>Bạn càng dùng thiết bị thì càng nhiều tệp gần đây hiện lên</value>
   </data>
   <data name="RecentFiles_OpenFileLocation.Text" xml:space="preserve">
-    <value>Open file location</value>
+    <value>Mở vị trí tệp</value>
   </data>
   <data name="RecentFiles_RemoveFromList.Text" xml:space="preserve">
-    <value>Remove from list</value>
+    <value>Gỡ khỏi danh sách</value>
   </data>
   <data name="RecentFiles_Title.Text" xml:space="preserve">
-    <value>Recent files</value>
+    <value>Tệp gần đây</value>
   </data>
   <data name="RecordingFileName" xml:space="preserve">
-    <value>Recording</value>
+    <value>Quay màn hình</value>
   </data>
   <data name="RecordingStatus_Recording.Text" xml:space="preserve">
-    <value>Recording...</value>
+    <value>Đang quay...</value>
   </data>
   <data name="RecordingStatus_Stop.Text" xml:space="preserve">
-    <value>Stop</value>
+    <value>Dừng</value>
   </data>
   <data name="Recording_Cancel.Content" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Hủy</value>
   </data>
   <data name="Recording_Skip.Content" xml:space="preserve">
-    <value>Skip</value>
+    <value>Bỏ qua</value>
   </data>
   <data name="Recording_Starting.Text" xml:space="preserve">
-    <value>Starting...</value>
+    <value>Đang bắt đầu...</value>
   </data>
   <data name="SettingsAbout_ApplicationName.Text" xml:space="preserve">
     <value>Ink Workspace</value>
     <comment>DO NOT TRANSLATE</comment>
   </data>
   <data name="SettingsAbout_EmailSupport.Content" xml:space="preserve">
-    <value>Email support</value>
+    <value>Email hỗ trợ</value>
   </data>
   <data name="SettingsAbout_Feedback.Content" xml:space="preserve">
-    <value>Feedback</value>
+    <value>Phản hồi</value>
   </data>
   <data name="SettingsAbout_Libraries_Description.Text" xml:space="preserve">
-    <value>The following libraries have been used in this app:</value>
+    <value>Những thư viện sau đã được sử dụng trong ứng dụng này:</value>
   </data>
   <data name="SettingsAbout_Libraries_Title.Text" xml:space="preserve">
-    <value>Libraries</value>
+    <value>Thư viện</value>
   </data>
   <data name="SettingsAbout_MyApps.Content" xml:space="preserve">
-    <value>My apps</value>
+    <value>Ứng dụng của tôi</value>
   </data>
   <data name="SettingsAbout_RateAndReview.Content" xml:space="preserve">
-    <value>Rate and review</value>
+    <value>Đánh giá và rì viu</value>
   </data>
   <data name="SettingsAbout_Troubleshooting_Description.Text" xml:space="preserve">
-    <value>Mica For Everyone app may cause the app windows to be displayed incorrectly. In this case, add the new rules for InkWorkspace.Wpf and InkWorkspace.Recording processes and set default values.</value>
+    <value>Ứng dụng Mica For Everyone có thể làm cửa sổ ứng dụng hiển thị không đúng. Trong trường hợp này, thêm quy tắc mới cho tến trình InkWorkspace.Wpf và InkWorkspace.Recording và cài giá trị mặt định.</value>
   </data>
   <data name="SettingsAbout_Troubleshooting_Title.Text" xml:space="preserve">
-    <value>Troubleshooting</value>
+    <value>Xử lí sự cố</value>
   </data>
   <data name="SettingsAbout_Version.Text" xml:space="preserve">
-    <value>Version:</value>
+    <value>Phiên bản:</value>
   </data>
   <data name="SettingsApps_AndroidApps_Description.Text" xml:space="preserve">
     <value>Show Android apps on the list of apps</value>
