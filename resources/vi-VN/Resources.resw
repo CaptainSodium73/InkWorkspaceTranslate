@@ -426,193 +426,193 @@
     <value>Phiên bản:</value>
   </data>
   <data name="SettingsApps_AndroidApps_Description.Text" xml:space="preserve">
-    <value>Show Android apps on the list of apps</value>
+    <value>Hiện ứng dụng Android trong danh sách ứng dụng</value>
   </data>
   <data name="SettingsApps_AndroidApps_Information.Text" xml:space="preserve">
-    <value>All Android apps will be unpinned from Home view when you turn off this setting</value>
+    <value>Mọi ứng dụng Android sẽ bị hủy ghim khỏi Trang chủ nếu bạn tắt cài đặt này</value>
   </data>
   <data name="SettingsApps_AndroidApps_Title.Text" xml:space="preserve">
-    <value>Android apps</value>
+    <value>Ứng dụng Android</value>
   </data>
   <data name="SettingsApps_AppsGrouping_Description.Text" xml:space="preserve">
-    <value>Enable grouping on the list of apps</value>
+    <value>Bật nhóm trong danh sách ứng dụng</value>
   </data>
   <data name="SettingsApps_AppsGrouping_Title.Text" xml:space="preserve">
-    <value>Apps grouping</value>
+    <value>Nhóm ứng dụng</value>
   </data>
   <data name="SettingsApps_Category_Advanced.Text" xml:space="preserve">
-    <value>Advanced</value>
+    <value>Nâng cao</value>
   </data>
   <data name="SettingsApps_ClassicApps_Description.Text" xml:space="preserve">
-    <value>Show classic apps on the list of apps</value>
+    <value>Hiện ứng dụng truyền thống trong danh sách ứng dụng</value>
   </data>
   <data name="SettingsApps_ClassicApps_Information.Text" xml:space="preserve">
-    <value>All classic apps will be unpinned from Home view when you turn off this setting</value>
+    <value>Mọi ứng dụng truyền thống sẽ bị hủy ghim khỏi Trang chủ nếu bạn tắt cài đặt này</value>
   </data>
   <data name="SettingsApps_ClassicApps_Title.Text" xml:space="preserve">
-    <value>Classic apps</value>
+    <value>Ứng dụng truyền thống</value>
   </data>
   <data name="SettingsApps_RefreshApps_Description.Text" xml:space="preserve">
-    <value>If you don't see all apps, try to refresh the list manually</value>
+    <value>Nếu bạn không thấy tất cả ứng dụng, thử làm mới thủ công danh sách</value>
   </data>
   <data name="SettingsApps_RefreshApps_Refresh" xml:space="preserve">
-    <value>Refresh</value>
+    <value>Làm mới</value>
   </data>
   <data name="SettingsApps_RefreshApps_Refreshing" xml:space="preserve">
-    <value>Refreshing</value>
+    <value>Đang làm mới</value>
   </data>
   <data name="SettingsApps_RefreshApps_Title.Text" xml:space="preserve">
-    <value>Refresh apps</value>
+    <value>Làm mới ứng dụng</value>
   </data>
   <data name="SettingsApps_SearchBox_Description.Text" xml:space="preserve">
-    <value>Show search box in Apps view</value>
+    <value>Hiện hộp tìm kiếm ở mục Ứng dụng</value>
   </data>
   <data name="SettingsApps_SearchBox_Title.Text" xml:space="preserve">
-    <value>Search box</value>
+    <value>Hộp tìm kiếm</value>
   </data>
   <data name="SettingsApps_UnpinAll_Description.Text" xml:space="preserve">
-    <value>Unpin all apps from Home view</value>
+    <value>Hủy ghim tất cả ứng dụng khỏi Trang chủ</value>
   </data>
   <data name="SettingsApps_UnpinAll_Title.Text" xml:space="preserve">
-    <value>Unpin all</value>
+    <value>Hủy ghim hết</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpin.Content" xml:space="preserve">
-    <value>Unpin</value>
+    <value>Hủy ghim</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpinned" xml:space="preserve">
-    <value>Unpinned</value>
+    <value>Đã hủy ghim</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Description.Text" xml:space="preserve">
-    <value>Customize keyboard shortcut</value>
+    <value>Tùy chỉnh phím tắt bàn phím</value>
   </data>
   <data name="SettingsGeneral_ActivationShortcut_Title.Text" xml:space="preserve">
-    <value>Activation shortcut</value>
+    <value>Phím tắt kích hoạt</value>
   </data>
   <data name="SettingsGeneral_Bluetooth_Description.Text" xml:space="preserve">
-    <value>Bluetooth devices settings</value>
+    <value>Cài đặt thiết bị Bluetooth</value>
   </data>
   <data name="SettingsGeneral_Bluetooth_Title.Text" xml:space="preserve">
     <value>Bluetooth</value>
   </data>
   <data name="SettingsGeneral_Category_Accessibility.Text" xml:space="preserve">
-    <value>Accessibility</value>
+    <value>Khả năng truy cập</value>
   </data>
   <data name="SettingsGeneral_Category_RelatedSettings.Text" xml:space="preserve">
-    <value>Related settings</value>
+    <value>Cài đặt liên quan</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Description.Text" xml:space="preserve">
-    <value>Enable keyboard shortcut that shows workspace</value>
+    <value>Bật phím tắt để hiện không gian làm việc</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Title.Text" xml:space="preserve">
-    <value>Enable activation shortcut</value>
+    <value>Bật phím tắt kích hoạt</value>
   </data>
   <data name="SettingsGeneral_FontSize_Bigger.Content" xml:space="preserve">
-    <value>Bigger</value>
+    <value>To hơn</value>
   </data>
   <data name="SettingsGeneral_FontSize_Description.Text" xml:space="preserve">
-    <value>Set font size for content in app</value>
+    <value>Đặt cỡ phông cho nội dung ứng dụng</value>
   </data>
   <data name="SettingsGeneral_FontSize_Normal.Content" xml:space="preserve">
-    <value>Normal</value>
+    <value>Bình thường</value>
   </data>
   <data name="SettingsGeneral_FontSize_Title.Text" xml:space="preserve">
-    <value>Font size</value>
+    <value>Cỡ phông</value>
   </data>
   <data name="SettingsGeneral_InkingAndTypingPersonalization_Description.Text" xml:space="preserve">
-    <value>Personal dictionary settings</value>
+    <value>Cài đặt từ điển cá nhân</value>
   </data>
   <data name="SettingsGeneral_InkingAndTypingPersonalization_Title.Text" xml:space="preserve">
-    <value>Inking &amp; typing personalization</value>
+    <value>Cá nhân Viết &amp; nhập</value>
   </data>
   <data name="SettingsGeneral_PenAndWindowsInk_Description.Text" xml:space="preserve">
-    <value>Pen &amp; handwriting settings</value>
+    <value>Cài đặt bút &amp; viết tay</value>
   </data>
   <data name="SettingsGeneral_PenAndWindowsInk_Title.Text" xml:space="preserve">
-    <value>Pen &amp; Windows Ink</value>
+    <value>Bút &amp; viết Windows</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Description.Text" xml:space="preserve">
-    <value>Pin this app to the Windows taskbar</value>
+    <value>Ghim ứng dụng này vào thanh tác vụ Windows</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Pinned" xml:space="preserve">
-    <value>Pinned</value>
+    <value>Đã ghim</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_PinToTaskbar" xml:space="preserve">
-    <value>Pin to taskbar</value>
+    <value>Ghim vào thanh tác vụ</value>
   </data>
   <data name="SettingsGeneral_PinToTaskbar_Title.Text" xml:space="preserve">
-    <value>Pin to taskbar</value>
+    <value>Ghim vào thanh tác vụ</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_Description.Text" xml:space="preserve">
-    <value>Run app automatically after you log in</value>
+    <value>Tự động chạy ứng dụng sau khi đăng nhập</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_OpenSettings.Content" xml:space="preserve">
-    <value>Open Settings</value>
+    <value>Mở cài đặt</value>
   </data>
   <data name="SettingsGeneral_RunAtStartup_Title.Text" xml:space="preserve">
-    <value>Run at startup</value>
+    <value>Chạy khi khởi động</value>
   </data>
   <data name="SettingsGeneral_Sounds_Description.Text" xml:space="preserve">
-    <value>Enable immersive audio experience</value>
+    <value>Bật trải nghiệm âm thanh sống động</value>
   </data>
   <data name="SettingsGeneral_Sounds_Title.Text" xml:space="preserve">
-    <value>Sounds</value>
+    <value>Âm thanh</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Description.Text" xml:space="preserve">
-    <value>Set the tiles size of pinned apps</value>
+    <value>Thiết đặt kích cỡ tiêu đề cho ứng dụng đã ghim</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Medium.Content" xml:space="preserve">
-    <value>Medium</value>
+    <value>Vừa</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Small.Content" xml:space="preserve">
-    <value>Small</value>
+    <value>Nhỏ</value>
   </data>
   <data name="SettingsHome_AppsTilesSize_Title.Text" xml:space="preserve">
-    <value>Tiles size of apps</value>
+    <value>Kích cỡ tiêu đề ứng dụng</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Description.Text" xml:space="preserve">
-    <value>Show Bing daily wallpaper in the background</value>
+    <value>Hiện hình nền hằng ngày của Bing làm hình nền</value>
   </data>
   <data name="SettingsHome_BingWallpaper_Title.Text" xml:space="preserve">
-    <value>Bing wallpaper</value>
+    <value>Hình nền Bing</value>
   </data>
   <data name="SettingsHome_Category_Options.Text" xml:space="preserve">
-    <value>Options</value>
+    <value>Tùy chọn</value>
   </data>
   <data name="SettingsHome_HomeManagement_Apps_Description" xml:space="preserve">
-    <value>Tiles of apps you pinned</value>
+    <value>Tiêu đề ứng dụng đã ghim</value>
   </data>
   <data name="SettingsHome_HomeManagement_Apps_Title" xml:space="preserve">
-    <value>Apps</value>
+    <value>Ứng dụng</value>
   </data>
   <data name="SettingsHome_HomeManagement_Description.Text" xml:space="preserve">
-    <value>The elements in the Home view may hide automatically when no data is available.</value>
+    <value>Các thành phần của Trang chủ có thể tự ẩn khi không có dữ liệu.</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Description" xml:space="preserve">
-    <value>Tiles of quick actions you pinned</value>
+    <value>Tiêu đề hành động nhanh đã ghim</value>
   </data>
   <data name="SettingsHome_HomeManagement_QuickActions_Title" xml:space="preserve">
-    <value>Quick actions</value>
+    <value>Hành động nhanh</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Description" xml:space="preserve">
-    <value>Recently opened or modified files</value>
+    <value>Tệp đã thay đổi hoặc đã mở gần đây</value>
   </data>
   <data name="SettingsHome_HomeManagement_RecentFiles_Title" xml:space="preserve">
-    <value>Recent files</value>
+    <value>Tệp gần đây</value>
   </data>
   <data name="SettingsHome_HomeManagement_Suggested_Description" xml:space="preserve">
-    <value>Recommended apps for digital pen</value>
+    <value>Ứng dụng khuyên dùng cho bút điện tử</value>
   </data>
   <data name="SettingsHome_HomeManagement_Suggested_Title" xml:space="preserve">
-    <value>Suggested</value>
+    <value>Gợi ý</value>
   </data>
   <data name="SettingsHome_HomeManagement_Title.Text" xml:space="preserve">
-    <value>Set visibility and order of the elements in the Home screen</value>
+    <value>Thiết đặt hiển thị và thứ tự các thành phần ở Trang chủ</value>
   </data>
   <data name="SettingsHome_NumberOfRecentFiles_Description.Text" xml:space="preserve">
-    <value>Show specific number of recent files</value>
+    <value>Hiện cụ thể số tệp gần đây</value>
   </data>
   <data name="SettingsHome_NumberOfRecentFiles_Title.Text" xml:space="preserve">
-    <value>Recent files</value>
+    <value>Tệp gần đây</value>
   </data>
   <data name="SettingsHome_QuickActionsTilesSize_Description.Text" xml:space="preserve">
     <value>Set the tiles size of pinned quick actions</value>
