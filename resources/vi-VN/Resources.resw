@@ -857,7 +857,7 @@
     <value>Gỡ tất cả</value>
   </data>
   <data name="Settings_Menu_About" xml:space="preserve">
-    <value>Về</value>
+    <value>Thông tin ứng dụng</value>
   </data>
   <data name="Settings_Menu_Apps" xml:space="preserve">
     <value>Ứng dụng</value>
