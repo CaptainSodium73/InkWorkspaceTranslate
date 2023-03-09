@@ -272,7 +272,7 @@
     <value>Cài đặt</value>
   </data>
   <data name="QuickActions_Action_Cast" xml:space="preserve">
-    <value>Chiếu</value>
+    <value>Truyền màn hình</value>
   </data>
   <data name="QuickActions_Action_Clipboard" xml:space="preserve">
     <value>Bảng nhớ tạm</value>
@@ -444,7 +444,7 @@
     <value>Nâng cao</value>
   </data>
   <data name="SettingsApps_ClassicApps_Description.Text" xml:space="preserve">
-    <value>Hiện ứng dụng truyền thống trong danh sách ứng dụng</value>
+    <value>Hiện ứng dụng truyền thống (không từ store) trong danh sách ứng dụng</value>
   </data>
   <data name="SettingsApps_ClassicApps_Information.Text" xml:space="preserve">
     <value>Mọi ứng dụng truyền thống sẽ bị hủy ghim khỏi Trang chủ nếu bạn tắt cài đặt này</value>
@@ -471,13 +471,13 @@
     <value>Hộp tìm kiếm</value>
   </data>
   <data name="SettingsApps_UnpinAll_Description.Text" xml:space="preserve">
-    <value>Hủy ghim tất cả ứng dụng khỏi Trang chủ</value>
+    <value>Bỏ ghim tất cả ứng dụng khỏi Trang chủ</value>
   </data>
   <data name="SettingsApps_UnpinAll_Title.Text" xml:space="preserve">
-    <value>Hủy ghim hết</value>
+    <value>Bỏ ghim toàn bộ</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpin.Content" xml:space="preserve">
-    <value>Hủy ghim</value>
+    <value>Bỏ ghim</value>
   </data>
   <data name="SettingsApps_UnpinAll_Unpinned" xml:space="preserve">
     <value>Đã hủy ghim</value>
@@ -501,10 +501,10 @@
     <value>Cài đặt liên quan</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Description.Text" xml:space="preserve">
-    <value>Bật phím tắt để hiện không gian làm việc</value>
+    <value>Phím tắt để hiện không gian làm việc</value>
   </data>
   <data name="SettingsGeneral_EnableActivationShortcut_Title.Text" xml:space="preserve">
-    <value>Bật phím tắt kích hoạt</value>
+    <value>Phím tắt kích hoạt ứng dụng</value>
   </data>
   <data name="SettingsGeneral_FontSize_Bigger.Content" xml:space="preserve">
     <value>To hơn</value>
@@ -740,16 +740,16 @@
     <value>Con trỏ</value>
   </data>
   <data name="SettingsQuickActions_EnableStartRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>Bật phím tắt để khởi động quay</value>
+    <value>Bật phím tắt để khởi động quay màn hình</value>
   </data>
   <data name="SettingsQuickActions_EnableStartRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Bật phím tắt Khởi động quay</value>
+    <value>Bật phím tắt Khởi động Quay màn hình</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Description.Text" xml:space="preserve">
-    <value>Bật phím tắt để dừng quay</value>
+    <value>Bật phím tắt để dừng quay màn hình</value>
   </data>
   <data name="SettingsQuickActions_EnableStopRecordingShortcut_Title.Text" xml:space="preserve">
-    <value>Bật phím tắt Dừng quay</value>
+    <value>Bật phím tắt Dừng Quay màn hình</value>
   </data>
   <data name="SettingsQuickActions_RecordingFrameRate_30fps.Content" xml:space="preserve">
     <value>30 fps</value>
@@ -779,7 +779,7 @@
     <value>Không hoãn</value>
   </data>
   <data name="SettingsQuickActions_RecordingStartDelay_Title.Text" xml:space="preserve">
-    <value>Bắt đầu hoãn</value>
+    <value>Hẹn giờ</value>
   </data>
   <data name="SettingsQuickActions_RecordingVideoQuality_Best.Content" xml:space="preserve">
     <value>Tốt nhất</value>
@@ -809,7 +809,7 @@
     <value>Chỉ chụp màn hình chính</value>
   </data>
   <data name="SettingsQuickActions_ScreenSketchArea_Title.Text" xml:space="preserve">
-    <value>Chụp vùng</value>
+    <value>Vùng chụp</value>
   </data>
   <data name="SettingsQuickActions_ShutDownConfirmation_Description.Text" xml:space="preserve">
     <value>Hiện xác nhận trước khi tắt máy</value>
